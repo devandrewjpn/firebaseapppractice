@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189312171273",
+    "project_id": "flashapp-by-saturndevelopment",
+    "storage_bucket": "flashapp-by-saturndevelopment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189312171273:android:5a4233e5f159d6dad367d8",
+        "android_client_info": {
+          "package_name": "com.saturndevelopment.flashchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189312171273-99ha5m6p3kchvl2af4rsughtgge1ioi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJfNWqGRd9l3c7hrVEsw-osrqzla3gMV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189312171273-99ha5m6p3kchvl2af4rsughtgge1ioi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
